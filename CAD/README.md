@@ -9,7 +9,7 @@ Enclosure Models:
 6. Breeze Rev1 Enclosure Rev5 - Right Hand MX Profile
 
 Plate Models:
-1. Breeze Rev1 Plate Rev5 - Left Hand MX Profile
-1. Breeze Rev1 Plate Rev5 - Right Hand MX Profile
+1. Breeze Rev1 Plate Rev2 - Left Hand MX Profile
+1. Breeze Rev1 Plate Rev2 - Right Hand MX Profile
 
 Join us on our [Discord](https://discord.gg/9nsApe3GvG).
