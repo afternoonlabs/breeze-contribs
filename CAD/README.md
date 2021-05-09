@@ -1,6 +1,9 @@
 # CAD files for Breeze
 These are the official open sources CAD models for the [Breeze Keyboard](https://afternoonlabs.com/breeze).
 
+PCB Model:
+1. Breeze Rev1
+
 Enclosure Models:
 1. Breeze Rev1 Enclosure Rev5 - Left Hand Choc Profile
 2. Breeze Rev1 Enclosure Rev5 - Full Left Hand Choc Profile
