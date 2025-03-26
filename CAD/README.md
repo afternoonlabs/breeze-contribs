@@ -1,4 +1,4 @@
-# CAD files for Breeze
+# CAD files for the original Breeze
 These are the official open sources CAD models for the [Breeze Keyboard](https://afternoonlabs.com/breeze).
 
 PCB Model:
@@ -15,5 +15,15 @@ Enclosure Models:
 Plate Models:
 1. Breeze Rev1 Plate Rev2 - Left Hand MX Profile
 1. Breeze Rev1 Plate Rev2 - Right Hand MX Profile
+
+# CAD files for Mountain Breeze
+These are the official open sources CAD models for the [Mountain Breeze Keyboard](https://afternoonlabs.com/mountain-breeze).
+
+Enclosure Models:
+1. Mountain Breeze Roll 5 Pitch 3 - Left Plate
+2. Mountain Breeze Roll 5 Pitch 3 - Right Plate
+3. Mountain Breeze Roll 5 Pitch 3 - Right Function Plate
+
+
 
 Join us on our [Discord](https://discord.gg/9nsApe3GvG).
